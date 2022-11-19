@@ -3,6 +3,6 @@ Playing card back series non-fungible asset(NFA) by ♣♣♣♣♣♣
 
 Copyright 2022 ♣♣♣♣♣♣. All rights reserved.
 
-SCID: 9076033d7e74abf1b7887c049e98bb29b32209f7435eec20662d5c8a029b20e5
+SCID: f92e0e0f31092fc9ec9b47ab827cf08a104ab3898e0decd82e0966632df543f4
 
 Creator: dero1qy4ascka9rtspjvcyj6t8maazaay8t9udtt5nper3mukqkx2qtvyxqgflkpwp
